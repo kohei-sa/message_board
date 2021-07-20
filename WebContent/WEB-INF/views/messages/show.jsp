@@ -7,8 +7,6 @@
             <c:when test="${message != null}">
                 <h2>id : ${message.id} のメッセージ詳細ページ</h2>
 
-                <h2>id : ${message.id} のメッセージ詳細ページ</h2>
-
                 <table>
                     <tbody>
                         <tr>
